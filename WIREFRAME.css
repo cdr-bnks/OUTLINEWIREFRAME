@@ -1,0 +1,54 @@
+body{
+    background-image:url(../Documents/ElevenFiftyProject/Assignments/REGISTERPAGE/Assets/Movies.JPEG)
+}
+.container{
+    background-image: url(../Documents/ElevenFiftyProject/Assignments/REGISTERPAGE/Assets/Movies5.JPEG);
+    width: 100%;
+    height: 280px;
+    background-size: 50%;
+}
+h3{
+    background-color: red;
+    display: inline-block;
+    border-radius: 20px;
+    color: whitesmoke;
+    
+}
+button{
+    background-color: red;
+}
+.move{
+    float:right;
+    width: 77px;
+}
+.header{
+    font-family:Cambria, Cochin, Arial, Helvetica, sans-serif;
+    background-color: indianred;
+    font-size: 40px;
+    
+}
+a{
+    font-size: 15px;
+    text-decoration: violet;
+
+}
+h5{
+    background-color: yellow;
+    text-decoration-color: yellow;
+    display: inline-flex;
+    height: 30px;
+    text-align: center;
+    width: 200px;
+    justify-content: space-around;
+}
+h4{
+    background-color: lightblue;
+    text-decoration: underline;
+    color:mediumblue;
+}
+.box{
+    color: peachpuff;
+    text-align: center;
+
+
+}
